@@ -1,0 +1,6 @@
+name: wp-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
